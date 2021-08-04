@@ -2,6 +2,8 @@
 
 - 🌱 I’m currently learning Front-end technologies
 - 👯 I’m looking to collaborate on companies
+- 📫 How to reach me: haclesrocha200@gmail.com or hericlesrocha1 in Instagram
+
 
  <div>
   <a href="https://github.com/hacles100">
