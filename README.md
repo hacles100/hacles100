@@ -2,7 +2,7 @@
  
  I'm a Junior Fullstack developer.
 
-- 🌱 I’m currently learning Front-end technologies
+- 🌱 I’m currently learning Front-end and Back-end technologies
 - 👯 I’m looking to collaborate on companies
 - 📫 How to reach me: haclesrocha200@gmail.com or hericlesrocha1 in my Instagram 🤓
 
