@@ -1,6 +1,6 @@
  ### Hi there, I'm Héricles Rocha 👋
  
- I'm a Junior Fullstack developer.
+ I'm a Fullstack developer.
 
 - 🌱 I’m currently learning Front-end and Back-end technologies
 - 👯 I’m looking to collaborate on companies
