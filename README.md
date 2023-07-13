@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning Front-end and Back-end technologies
 - 👯 I’m looking to collaborate on companies
-- 📫 How to reach me: haclesrocha200@gmail.com or Héricles Rocha in my Linkedln https://www.linkedin.com/in/h%C3%A9ricles-rocha/ 🤓
+- 📫 How to reach me: haclesrocha200@gmail.com or Héricles Rocha in my Linkedln https://www.linkedin.com/in/h%C3%A9ricles-rocha/
 
 <div>
   <a href="https://github.com/hacles100">
